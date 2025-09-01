@@ -29,7 +29,7 @@ Este é um sistema de gestão de protocolos baseado em Python com o framework Dj
 
 1.  **Clone o Repositório**:
     ```bash
-    git clone [https://github.com/kemersonpassos/sistema_protocolos2-master-main.git](https://github.com/kemersonpassos/sistema_protocolos2-master.git)
+    git clone [https://github.com/kemersonpassos/sistema_protocolos2-master-main.git]
     cd sistema_protocolos2-master
     ```
 
